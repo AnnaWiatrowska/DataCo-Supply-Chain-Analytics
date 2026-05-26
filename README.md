@@ -49,6 +49,6 @@ Raport został zaprojektowany z myślą o użytkownikach biznesowych i operacyjn
 * **Analiza utraty (Churn):** Analiza trendów odpływu klientów (Churn Rate) w podziale na segmenty rynku, kluczowa dla optymalizacji działań marketingowych i utrzymaniowych B2B i B2C.
 ![Customer Retention](strona4.jpg)
 
-### Zaawansowana analityka DAX:
+### Analityka DAX:
 * Wykorzystanie funkcji Time Intelligence do kalkulacji skumulowanych wartości (Revenue YTD) oraz wskaźników dynamiki rok do roku (Revenue Growth Rate).
 * Zastosowanie funkcji iteracyjnych (`CONCATENATEX`) połączonych z weryfikacją kontekstu filtrowania (`ISFILTERED`) do automatyzacji warstwy opisowej raportu.
