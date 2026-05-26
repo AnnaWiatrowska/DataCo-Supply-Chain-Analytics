@@ -42,7 +42,7 @@ Raport został zaprojektowany z myślą o użytkownikach biznesowych i operacyjn
 * **Struktura przychodów:** Analiza struktury bazy klienckiej (18,5K klientów) z podziałem na segmenty (Consumer, Corporate, Home Office), gdzie segment konsumencki generuje blisko 52% łącznego przychodu.
 * **Geografia i rankingi:** Identyfikacja kluczowych rynków poprzez analizę przychodów w ujęciu geograficznym (Revenue by State) połączona z tabelą rankingową najlepszych klientów.
 * **Segmentacja (Scatter Plot):** Wykres rozrzutu mapujący zysk (Profit) względem przychodu (Revenue) per klient, pozwalający na szybkie wyodrębnienie transakcji wysokomarżowych oraz stratnych.
-![Clients Analytics](strona3.png)
+![Clients Analytics](strona3.jpg)
 
 ### Strona 4: Retencja Klientów (Customer Retention)
 * **Powracalność klientów:** Dedykowany moduł kohortowy i trendu monitorujący liczbę powracających kupujących (Returning Customers) oraz stabilność wskaźnika retencji (Retention Rate) w czasie.
