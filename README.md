@@ -49,7 +49,7 @@ The report was designed for business and operational users, combining aesthetics
   ### Page 4: Customer Retention
 * **Customer Loyalty:** A dedicated cohort and trend module monitoring the number of returning buyers (Returning Customers) and the stability of the Retention Rate over time.
 * **Churn Analysis:** Analyzing churn rate trends by market segments, crucial for optimizing B2B and B2C marketing and retention activities.
-* 
+  
 ![Customer Retention](strona4.jpg)
 
 ### DAX Analytics:
