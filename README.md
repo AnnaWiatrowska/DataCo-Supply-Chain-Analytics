@@ -52,3 +52,6 @@ Raport został zaprojektowany z myślą o użytkownikach biznesowych i operacyjn
 ### Analityka DAX:
 * Wykorzystanie funkcji Time Intelligence do kalkulacji skumulowanych wartości (Revenue YTD) oraz wskaźników dynamiki rok do roku (Revenue Growth Rate).
 * Zastosowanie funkcji iteracyjnych (`CONCATENATEX`) połączonych z weryfikacją kontekstu filtrowania (`ISFILTERED`) do automatyzacji warstwy opisowej raportu.
+
+  ---
+*Autor: Anna Wiatrowska*
