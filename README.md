@@ -30,14 +30,14 @@ The report was designed for business and operational users, combining aesthetics
 * **UI/UX:** Implementing a slide-out filter panel (Slicer Pane) to save workspace.
 * **Details on Demand:** Using custom Tooltips to display the Top 3 products by revenue when hovering over a category.
   
- ![Sales Overview](strona1.jpg)
+![Sales Overview](strona1.jpg)
 
 ### Page 2: Logistics Overview
 * **Operational Efficiency:** Monitoring the OTDR (On-Time Delivery Rate) and identifying shipping delays.
 * **Bottleneck Analysis:** Comparing actual vs. planned shipping time split by shipping classes.
 * **Dynamic Context:** Implementing DAX measures that automatically update chart titles based on selected markets and timeframes.
 
-  ![Logistics Overview](strona2.jpg)
+![Logistics Overview](strona2.jpg)
 
 ### Page 3: Clients Analytics
 * **Revenue Structure:** Analyzing the structure of the customer base (18.5K clients) split by segments (Consumer, Corporate, Home Office), where the consumer segment generates nearly 52% of total revenue.
